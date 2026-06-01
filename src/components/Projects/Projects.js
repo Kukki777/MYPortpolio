@@ -8,7 +8,7 @@ import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import yuvayojna from "../../Assets/Projects/yuvayojna.png";
 import tripy from "../../Assets/Projects/tripy.png";
-import samvidhan from "../../Assets/Projects/samvidhan.png";
+import samvidhan from "../../Assets/Projects/samvidhan.jpg";
 
 function Projects() {
   return (
