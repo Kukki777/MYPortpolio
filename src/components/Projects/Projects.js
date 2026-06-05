@@ -51,7 +51,7 @@ function Projects() {
               imgPath={samvidhan}
               isBlog={false}
               title="Samvidhan-SIH"
-              description="Samvidhan is an online platform for learning Indian Constitution in simple, engaging & fun way. It includes simplified lessons, blogs, a judiciary tour, and gamified learning experiences like quizzes, crossword puzzles,& memory matching games."
+              description="Samvidhan is an online platform for learning Indian Constitution in simple & engaging way. It includes simplified lessons, blogs, a judiciary tour, and gamified learning experiences like quizzes, crossword puzzles,& memory matching games.Exploring constitutional concepts in a fun and student-friendly way."
               ghLink="https://github.com/Kukki777/samvidhan-sih"
               demoLink="https://samvidhan-sih.vercel.app/"     
             />
