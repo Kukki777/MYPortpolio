@@ -51,7 +51,7 @@ function Projects() {
               imgPath={samvidhan}
               isBlog={false}
               title="Samvidhan-SIH"
-              description="Yuva Yojna is an AI-powered student career and mentorship platform that helps users discover opportunities, build resumes ,use templates, match skills with relevant jobs, showcase portfolios, join communities, and connect with mentors through video calling sessions. Asessments with results, related learning videos."
+              description="Samvidhan is an interactive web platform that makes learning the Indian Constitution simple, engaging, and accessible. It includes simplified lessons, blogs, a judiciary tour, and gamified learning experiences like quizzes, crossword puzzles, and memory matching games. The platform also supports user authentication, allowing learners to access the app securely while exploring constitutional concepts in a fun and student-friendly way."
               ghLink="https://github.com/Kukki777/samvidhan-sih"
               demoLink="https://samvidhan-sih.vercel.app/"     
             />
